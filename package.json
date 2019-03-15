@@ -4,7 +4,8 @@
   "description": "js-challenges",
   "main": "index.js",
   "scripts": {
-    "test": "mocha \"./**/*.spec.js\""
+    "test": "mocha \"./**/*.spec.js\"",
+    "test:file": "mocha"
   },
   "repository": {
     "type": "git",

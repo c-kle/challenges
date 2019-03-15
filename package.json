@@ -1,0 +1,22 @@
+{
+  "name": "js-challenges",
+  "version": "1.0.0",
+  "description": "js-challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha \"./**/*.spec.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c-kle/js-challenges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c-kle/js-challenges/issues"
+  },
+  "homepage": "https://github.com/c-kle/js-challenges#readme",
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  }
+}
